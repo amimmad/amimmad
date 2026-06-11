@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:amirmohammadrahmani530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=amimmad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
@@ -140,7 +139,7 @@ $$ \mathcal{L}(\theta) = - \frac{1}{N} \sum_{i=1}^{N} \left[ y_i \log(\hat{y}_i)
 
 <p align="center">
   <a href="https://github.com/amimmad">
-    <img src="https://github-readme-stats.vercel.app/api?username=amimmad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=0072FF" alt="Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amimmad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=0072FF&rank_icon=github" alt="Stats" width="48%" />
   </a>
   <a href="https://github.com/amimmad">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimmad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" width="48%" />
